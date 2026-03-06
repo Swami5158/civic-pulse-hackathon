@@ -1,14 +1,5 @@
 # 🚀 CivicPulse AI – Urban Crisis Intelligence System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Express-4.x-black?style=for-the-badge&logo=express" alt="Express">
-  <img src="https://img.shields.io/badge/AI-Gemini-orange?style=for-the-badge&logo=google" alt="Gemini">
-  <img src="https://img.shields.io/badge/Maps-Leaflet-green?style=for-the-badge&logo=leaflet" alt="Leaflet">
-</p>
-
----
-
 ## 📌 Overview
 
 **CivicPulse AI** is an intelligent Urban Crisis Intelligence System designed to manage citizen-reported city issues such as infrastructure damage, service disruptions, sanitation problems, and public safety concerns.
