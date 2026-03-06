@@ -1,0 +1,8 @@
+{
+  "name": "CivicPulse AI",
+  "description": "Advanced AI-powered civic issue reporting and management system with real-time tracking, predictive analytics, and crisis detection.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
